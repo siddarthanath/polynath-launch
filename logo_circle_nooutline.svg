@@ -1,0 +1,12 @@
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect fill="#000000" stroke="#000" x="102.5" y="124.74485" width="125" height="450" id="svg_4"/>
+   <ellipse fill="#000000" stroke="#000" cx="227.5" cy="239.69723" id="svg_5" rx="115" ry="115"/>
+   <rect fill="#000000" stroke="#000" x="472.5" y="125.03056" width="125" height="450" id="svg_6"/>
+   <path stroke="#ffffff" id="svg_3" d="m287.86589,365.29597l271.11112,0c-16.07226,28.81514 -18.68594,55.70125 -19.25253,69.08701c-0.56659,13.38576 4.52854,42.98142 19.25253,64.65333l-271.11112,0l0,0l0,-133.74035l0,0.00001z" stroke-opacity="0" fill="#000000" transform="rotate(-135 423.421 432.166)"/>
+  </g>
+ </g>
+
+</svg>
